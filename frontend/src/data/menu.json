@@ -1,0 +1,42 @@
+[
+    {
+      "label": "HOME",
+      "id": 1,
+      "to": "/"
+    },
+    {
+      "label": "ALUNOS",
+      "id": 2,
+      "to": "/alunos"
+    },
+    {
+      "label": "PROFESSOR",
+      "id": 3,
+      "to": "/professor"
+    },
+    {
+      "label": "INSTRUMENTOS",
+      "id": 4,
+      "to": "/instrumentos"
+    },
+    {
+      "label": "VIDEOS",
+      "id": 5,
+      "to": "/videos"
+    },  
+    {
+      "label": "PERFIL",
+      "id": 6,
+      "to": "/perfil"
+    },
+    {
+      "label": "NÍVEIS",
+      "id": 7,
+      "to": "/nivel"
+    },
+    {
+      "label": "LOGOUT",
+      "id": 8,
+      "to": ""
+    }
+]

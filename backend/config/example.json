@@ -1,0 +1,13 @@
+{
+    "server": {
+        "port": 3333,
+        "base_url": "http://localhost:"
+    },
+    "database": {
+        "username": "rootGeneral",
+        "password": "password1234",
+        "database": "db1234",
+        "host": "localhost",
+        "dialect": "mysql"
+    }
+}
